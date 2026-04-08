@@ -1,0 +1,15 @@
+# 用户生成的记忆文件（隐私数据，不应提交）
+memories/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+
+# macOS
+.DS_Store
+
+# 临时文件
+/tmp/
+*.tmp
