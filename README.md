@@ -249,8 +249,3 @@ pip3 install Pillow
 
 MIT
 
----
-
-## 致谢
-
-感谢 [前任.skill](https://github.com/therealXiaomanChu/ex-skill) 的架构设计给了本项目灵感和基础。
